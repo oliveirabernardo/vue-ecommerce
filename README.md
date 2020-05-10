@@ -1,5 +1,4 @@
-# assessment
-
+# vue-ecommerce
 ## Project setup
 ```
 npm install
