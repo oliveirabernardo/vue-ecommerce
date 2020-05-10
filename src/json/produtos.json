@@ -1,0 +1,150 @@
+{
+  "produtos": 
+  [
+    {
+      "id": 1,
+      "titulo": "Lavadora de Roupas Electrolux",
+      "descricao": "Com 8 funções",
+      "valor": 1440.74,
+      "estoqueDisponivel": 12,
+      "avaliacao": 
+      [
+        {
+          "id": 1, "usuario": "joao152", "comentario": "gostei, muito boa", "estrelas": 5, "produto": 1
+        },
+        {
+          "id": 2, "usuario": "maria4529", "comentario": "quebrou no primeiro dia", "estrelas": 2, "produto": 1
+        },
+        {
+          "id": 3, "usuario": "bernardo224", "comentario": "incrivel", "estrelas": 3, "produto": 1
+        }
+      ],
+      "departamento": "Eletrodoméstico",
+      "categoria": "Máquina de lavar",
+      "imagem": "https://images-americanas.b2w.io/produtos/01/00/img7/01/00/item/133234/9/133234960_1GG.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "Lavadora de Roupas Brastemp",
+      "descricao": "Com 12 funções",
+      "valor": 1480.63,
+      "estoqueDisponivel": 18,
+      "avaliacao": 
+      [
+        {
+          "id": 1, "usuario": "joao152", "comentario": "gostei, muito boa", "estrelas": 4, "produto": 1
+        },
+        {
+          "id": 2, "usuario": "maria4529", "comentario": "quebrou no primeiro dia", "estrelas": 3, "produto": 1
+        },
+        {
+          "id": 3, "usuario": "bernardo224", "comentario": "incrivel", "estrelas": 5, "produto": 1
+        }
+      ],
+      "departamento": "Eletrodoméstico",
+      "categoria": "Máquina de lavar",
+      "imagem": "https://images-americanas.b2w.io/produtos/01/00/img/134568/0/134568013_1GG.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Lava-louças Brastemp",
+      "descricao": "Com 6 funções",
+      "valor": 2923.05,
+      "estoqueDisponivel": 14,
+      "avaliacao": 
+      [
+        {
+          "id": 1, "usuario": "joao160", "comentario": "muito boa", "estrelas": 2, "produto": 1
+        },
+        {
+          "id": 2, "usuario": "maria4529", "comentario": "quebrou no primeiro dia", "estrelas": 1, "produto": 1
+        },
+        {
+          "id": 3, "usuario": "bernardo224", "comentario": "incrivel", "estrelas": 5, "produto": 1
+        },
+        {
+          "id": 4, "usuario": "pedro040", "comentario": "podia ser melhor", "estrelas": 2, "produto": 1
+        }
+      ],
+      "departamento": "Eletrodoméstico",
+      "categoria": "Lava-louças",
+      "imagem": "https://images-americanas.b2w.io/produtos/01/00/img/134570/5/134570560_1GG.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Lava-louças Electrolux",
+      "descricao": "Com 14 funções",
+      "valor": 3140.74,
+      "estoqueDisponivel": 11,
+      "avaliacao": 
+      [
+        {
+          "id": 1, "usuario": "joao152", "comentario": "gostei, muito boa", "estrelas": 2, "produto": 1
+        },
+        {
+          "id": 2, "usuario": "maria4529", "comentario": "quebrou no primeiro dia", "estrelas": 2, "produto": 1
+        },
+        {
+          "id": 3, "usuario": "bernardo224", "comentario": "incrivel", "estrelas": 5, "produto": 1
+        },
+        {
+          "id": 4, "usuario": "pedro040", "comentario": "podia ser melhor", "estrelas": 2, "produto": 1
+        }
+      ],
+      "departamento": "Eletrodoméstico",
+      "categoria": "Lava-louças",
+      "imagem": "https://images-americanas.b2w.io/produtos/01/00/item/132717/4/132717441_1GG.jpg"
+    },
+    {
+      "id": 5,
+      "titulo": "Geladeira Brastemp",
+      "descricao": "Com 8 funções",
+      "valor": 2580.93,
+      "estoqueDisponivel": 8,
+      "avaliacao": 
+      [
+        {
+          "id": 1, "usuario": "joao152", "comentario": "gostei, muito boa", "estrelas": 1, "produto": 1
+        },
+        {
+          "id": 2, "usuario": "maria4529", "comentario": "quebrou no primeiro dia", "estrelas": 2, "produto": 1
+        },
+        {
+          "id": 3, "usuario": "bernardo224", "comentario": "incrivel", "estrelas": 3, "produto": 1
+        },
+        {
+          "id": 4, "usuario": "pedro040", "comentario": "podia ser melhor", "estrelas": 2, "produto": 1
+        }
+      ],
+      "departamento": "Eletrodoméstico",
+      "categoria": "Geladeira",
+      "imagem": "https://images-americanas.b2w.io/produtos/01/00/img7/01/00/item/133567/7/133567705_1GG.jpg"
+    },
+    {
+      "id": 6,
+      "titulo": "Geladeira Consul",
+      "descricao": "Com 6 funções",
+      "valor": 2449.99,
+      "estoqueDisponivel": 4,
+      "avaliacao": 
+      [
+        {
+          "id": 1, "usuario": "joao152", "comentario": "gostei, muito boa", "estrelas": 5, "produto": 1
+        },
+        {
+          "id": 2, "usuario": "maria4529", "comentario": "quebrou no primeiro dia", "estrelas": 5, "produto": 1
+        },
+        {
+          "id": 3, "usuario": "bernardo224", "comentario": "incrivel", "estrelas": 3, "produto": 1
+        },
+        {
+          "id": 4, "usuario": "pedro040", "comentario": "podia ser melhor", "estrelas": 2, "produto": 1
+        }
+      ],
+      "departamento": "Eletrodoméstico",
+      "categoria": "Geladeira",
+      "imagem": "https://images-americanas.b2w.io/produtos/01/00/img7/01/00/item/116107/8/116107897_1GG.png"
+    }
+  ]
+}
+

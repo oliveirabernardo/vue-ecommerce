@@ -1,0 +1,1 @@
+json-server --watch src/json/produtos.json --port 3000
